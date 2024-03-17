@@ -1,6 +1,6 @@
 # AdaIGN
 
-> The official implementation for the conference of AAAI 2023 paper *Adaptive Graph Learning for Multimodal Conversational Emotion Detection*.
+> The official implementation for the conference of AAAI 2024 paper *Adaptive Graph Learning for Multimodal Conversational Emotion Detection*.
 
 <img src="https://img.shields.io/badge/Venue-AAAI--24-blue" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/> <img src="https://img.shields.io/badge/Issues-Welcome-red">
 
