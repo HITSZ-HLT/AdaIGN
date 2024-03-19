@@ -1,14 +1,14 @@
 # AdaIGN
 
-> The official implementation for the conference of AAAI 2024 paper *Adaptive Graph Learning for Multimodal Conversational Emotion Detection*.
+> The official implementation for the conference of the AAAI 2024 paper *Adaptive Graph Learning for Multimodal Conversational Emotion Detection*.
 
 <img src="https://img.shields.io/badge/Venue-AAAI--24-blue" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/> <img src="https://img.shields.io/badge/Issues-Welcome-red">
 
 ## Requirements
-* Python 3.7.11
-* PyTorch 1.8.0
-* Transformers 4.1.1
-* CUDA 11.1
+* Python 3.7.12
+* PyTorch 1.12.0
+* Transformers 4.27.4
+* CUDA 10.1
 
 ## Preparation
 
