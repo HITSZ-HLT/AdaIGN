@@ -11,9 +11,15 @@
 * CUDA 10.1
 
 ## Preparation
+Download [**features**](https://drive.google.com/file/d/1I47mbbHSc2vkNXZs_NjRng-7cglqDdSd/view?usp=drive_link) and save them in ./.
+Download [**pseudo labels**](https://drive.google.com/file/d/1I47mbbHSc2vkNXZs_NjRng-7cglqDdSd/view?usp=drive_link) and save them in ./.
 
 ## Training & Evaluation
-You can train the models with the following codes:
+You can train the models in the "code" folder with the following codes:
+
+For IEMOCAP: ```python iemocap.py```
+
+For MELD: ```python meld.py```
 
 ## Citation
 If you find our work useful for your research, please kindly cite our paper as follows:
