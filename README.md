@@ -13,7 +13,7 @@
 ## Preparation
 Download [**features**](https://drive.google.com/file/d/12fHkPDM8hrmQjIlVo5hGsJb0uz61DYeH/view?usp=drive_link) and save them in ./.
 
-Download [**pseudo labels**](https://drive.google.com/file/d/1I47mbbHSc2vkNXZs_NjRng-7cglqDdSd/view?usp=drive_link) and save them in ./.
+Download [**pseudo labels**](https://drive.google.com/file/d/1WrwtlWIVY_eziDYbDnm0cd6u7JouqZPB/view?usp=drive_link) and save them in ./.
 
 ## Training & Evaluation
 You can train the models in the "code" folder with the following codes:
