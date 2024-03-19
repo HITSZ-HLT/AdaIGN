@@ -17,11 +17,12 @@ You can train the models with the following codes:
 
 ## Citation
 If you find our work useful for your research, please kindly cite our paper as follows:
+
 ```
-@article{,
+@inproceedings{tu2024adaptive,
   title={Adaptive Graph Learning for Multimodal Conversational Emotion Detection},
-  author={Geng Tu, Tian Xie, Bin Liang, Hongpeng Wang, Ruifeng Xu},
-  booktitle={Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)},
+  author={Tu, Geng and Xie, Tian and Liang, Bin and Wang, Hongpeng and Xu, Ruifeng},
+  booktitle={Proceedings of the 38th AAAI Conference on Artificial Intelligence},
   year={2024}
 }
 ```
