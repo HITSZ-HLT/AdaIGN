@@ -29,7 +29,10 @@ If you find our work useful for your research, please kindly cite our paper as f
 @inproceedings{tu2024adaptive,
   title={Adaptive Graph Learning for Multimodal Conversational Emotion Detection},
   author={Tu, Geng and Xie, Tian and Liang, Bin and Wang, Hongpeng and Xu, Ruifeng},
-  booktitle={Proceedings of the 38th AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={17},
+  pages={19089--19097},
   year={2024}
 }
 ```
