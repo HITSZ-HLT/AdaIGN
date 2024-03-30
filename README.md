@@ -11,7 +11,7 @@
 * CUDA 10.1
 
 ## Preparation
-Download [**features**](https://drive.google.com/file/d/12fHkPDM8hrmQjIlVo5hGsJb0uz61DYeH/view?usp=drive_link) and save them in ./.
+Download [**features**](https://drive.google.com/file/d/1oUa1RMJvj8F-YOdG9Rlovi94jI_UDPIw/view?usp=drive_link) and save them in ./.
 
 Download [**pseudo labels**](https://drive.google.com/file/d/1WrwtlWIVY_eziDYbDnm0cd6u7JouqZPB/view?usp=drive_link) and save them in ./.
 
