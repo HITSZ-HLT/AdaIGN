@@ -1,9 +1,5 @@
 # AdaIGN
 
-> The official implementation for the conference of the AAAI 2024 paper *Adaptive Graph Learning for Multimodal Conversational Emotion Detection*.
-
-<img src="https://img.shields.io/badge/Venue-AAAI--24-blue" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/> <img src="https://img.shields.io/badge/Issues-Welcome-red">
-
 ## Requirements
 * Python 3.7.12
 * PyTorch 1.12.0
@@ -16,11 +12,7 @@ Download [**features**](https://drive.google.com/file/d/1TFt3bJgLsTX3PEXsoB1IcDz
 Download [**pseudo labels**](https://drive.google.com/file/d/1WrwtlWIVY_eziDYbDnm0cd6u7JouqZPB/view?usp=drive_link) and save them in ./.
 
 ## Training & Evaluation
-You can train the models in the "code" folder with the following codes:
-
-For IEMOCAP: ```python iemocap.py```
-
-For MELD: ```python meld.py```
+The related code seems to have encountered some issues. We'll work on fixing it and upload the updated version as soon as possible.
 
 ## Citation
 If you find our work useful for your research, please kindly cite our paper as follows:
