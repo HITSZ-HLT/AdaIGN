@@ -7,9 +7,6 @@
 * CUDA 10.1
 
 ## Preparation
-Download [**features**](https://drive.google.com/file/d/1TFt3bJgLsTX3PEXsoB1IcDz5H_6vQxIG/view?usp=drive_link) and save them in ./.
-
-Download [**pseudo labels**](https://drive.google.com/file/d/1WrwtlWIVY_eziDYbDnm0cd6u7JouqZPB/view?usp=drive_link) and save them in ./.
 
 ## Training & Evaluation
 The related code seems to have encountered some issues. We'll work on fixing it and upload the updated version as soon as possible.
